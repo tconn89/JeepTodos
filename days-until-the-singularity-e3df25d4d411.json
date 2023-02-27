@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "days-until-the-singularity",
+  "private_key_id": "e3df25d4d411ca275118cffbd5f2ac823c7beece",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCew3jAjju3O9Tg\nyLZSsQpauHe/jvhcWw8ulRzkdbu/2VWc7cZs6+VafvtZ1Rnm5nDGeybNTU58tI6I\ncBsMOGznl7GLS2s78vXF2GFZN9MFVCuFoJX0UQ6Xdu0ERoBfnbxsCMYFU+VOBfQ/\nBN8KywIqZWRtUfdF1yFOves+cgq/PJeCkCeT8hgMrHStE0oFqtr3iQucOGifSxoY\nU4Olx8eYCD4gKVnkzpObNDXz9dRlc8aCp3P2JHzMmRCeJztx+aWoCqlVxcMfdjX1\ntNNpgLdwVvSc1XOLcZiOB2tK0CAgA2GrHYmqldP0UCrqSi5NDQLFhiAj5QRmhLLJ\nJnqsgQaLAgMBAAECggEAAhx4VRsvGRsvFAQnRIc9K4KreP0mOVgupgBun20fX4g8\n1rbkvhsO9DqfDg1C6GqlEkad9/nwssDV6mOPQITZkeTXBBKvLN9ovEZJ2R1gbYA2\nifLeO57+Ui5PLZDgcSUQVeFx/K0mbfivTE08yBB2CWlKwhdmcePP+hOVdsGeefeH\nbx/KCZH0zmSkE9+V3i+w5vhGbFol8c7+Bui8bH2nLRv4daVkMjOUoBdfNYiGZ5Q+\n7/jhyxsAEFIIqj41yKuFa0qbE5XA0OEJu0PigfTFJrHmYTdR1DbKKZR73FkN1od0\n9UeQAcf2qJtc2FN+HUoJvegu221Nd3PA7Q3/FeiztQKBgQDWJxsr4OUUpI7rQfwp\nkNNFMk7FudtO5x1nZ5+LRJAEfDMzHFDFZ2ma4pQuz7g0sCC6PnwKW40LbK3owSEB\nYgG6YcFnxuaFvBHyR182N+AO0e2KdJImkXDw/1IOCwVc9q7CmjTUFZiMLjY05+Jl\noixDVcFR6JTV2xq17OSwZpQY9QKBgQC9yYvZFCLJb58WaZLeuWojdLBj9LOrIvlQ\nBTmG7U/yeMKETExczC8etftxEKNHQpJ+B2rIom+8xfd/UYgOCR9m2Ze5pPP6YA51\nPC4GZtxnkHGeHca9LYUron5N4H8Ra6Fwla0kOTPJvGbKL4sNBxHLWXdTadM5Vp8x\nDoKquSLxfwKBgQCC/aKiIUseaFW/UzpB1oNURSRnz3p09etHb9voHQUWqT3MGprR\nVKMFCWjohUhAeidapJPM5hkNDuoFf/SHWwKBlf/uUXx5+wLjNoLnsB/OENyCnzEy\nhC4YS6ROULF0HrPg9uAvhhIsVKv1io0x65O1kEPSrTg043OgKgnsWKJn7QKBgQCq\n/7Kyp7LkPl9fyUXcycD5K0VW+n773mo2EE8R5DaZaPcSTtCq+AooqJ1h9TS4myH0\nzegH2FvHAbQLEkH9K3kQqVNMoHR3jh7YwJ1ThVBnO70zUu7jOuV3OFSHBJRY9Noj\n36h+L9Aan1caKxYlac49o2GhVYNMcWDDyagv/NmgLwKBgHlh0pCwW2LVy7dh21Za\nbeM0A7iILRtVQTLGJVxHUw0+Rf5aqzyavLLmjb98ZQ851mGzflB9+BUbVeQt5QvF\ngMO1KIunEiPu/qMq81CbioiJT4pVaaJLLelLRRAtLpD7eIJ4Sr61uRztTRP5ngRd\nnBQktPKU4Utjo/ZcvMNk0PMr\n-----END PRIVATE KEY-----\n",
+  "client_email": "todo-sheets@days-until-the-singularity.iam.gserviceaccount.com",
+  "client_id": "111081321090639049467",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/todo-sheets%40days-until-the-singularity.iam.gserviceaccount.com"
+}
